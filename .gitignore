@@ -1,3 +1,4 @@
-wip
+# Ignore the build directory
+/wip
 **/wip/*
 apks/debug/*
